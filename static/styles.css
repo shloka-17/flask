@@ -1,0 +1,25 @@
+form {
+    text-align: center;
+}
+
+body {
+    background: url("https://1.bp.blogspot.com/-fCCJk51FXso/VI9mVFGcIwI/AAAAAAAAARQ/Cs9SrwWMeBY/s1600/graceland_christmas_light.jpg");
+}
+
+#error {
+    color: blue;
+}
+
+#submit {
+    width: 100px;
+    text-align: center;
+    padding: 15px;
+    margin: 25px 15%;
+    font-style: italic;
+    display: block;
+}
+
+
+
+
+
